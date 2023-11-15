@@ -1,0 +1,20 @@
+@import '../App.scss';
+
+#home {
+  background: linear-gradient(115.3deg, #183D3D 0%, #5C8374 76.79%, #93B1A6 100%);
+  height: 110rem;
+
+  > div {
+    background-color: rgba($color: #fff, $alpha: 0.2);
+    height: 1px;
+  }
+
+  @media (max-width: 768px) {
+    height: auto;
+    padding: 5rem 0;
+
+    > div {
+      height: 0;
+    }
+  }
+}
