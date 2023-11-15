@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # Furnish Hub Landing Page
 
 Welcome to Furnish Hub, a sleek and modern landing page built with ReactJS, bundled using Vite, and styled with SCSS/SASS. This project serves as a personal portfolio and a test ground for various front-end technologies. Explore the latest trends in web design and see how I bring them to life.
@@ -29,5 +29,5 @@ If you want to run this project locally, follow these steps:
 3. Run the project with `npm run dev`.
 
 Feel free to explore the code, provide feedback, or even contribute. Thank you for visiting Furnish Hub!
-=======
->>>>>>> Stashed changes
+
+
